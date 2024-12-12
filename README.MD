@@ -4,6 +4,12 @@ Welcome to my portfolio repository! This project showcases my skills, projects, 
 
 ---
 
+## Screenshots
+
+### Home Section
+![Screenshot of Portfolio](./image/screenshot.png)
+---
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
@@ -48,19 +54,6 @@ This portfolio page is designed to display my professional journey, including my
 - **JavaScript**: For interactivity and dynamic content.
 - **Owl Carousel**: For creating the project carousel.
 - **Font Awesome**: For icons used throughout the portfolio.
-
----
-
-## Screenshots
-
-### Home Section
-<img src="image/screenshot_home.png" alt="Home Section Screenshot"/>
-
-### Projects Section
-<img src="image/screenshot_projects.png" alt="Projects Section Screenshot"/>
-
-### Contact Section
-<img src="image/screenshot_contact.png" alt="Contact Section Screenshot"/>
 
 ---
 
